@@ -1,0 +1,11 @@
+name: "Mini Library System"
+
+description: "Assignment-2"
+
+version: "1.0.0"
+
+dependencies:
+  http: ^0.13.3
+
+environment:
+  sdk: "^3.11.0"
